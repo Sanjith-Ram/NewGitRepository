@@ -1,4 +1,4 @@
 # NewGitRepository
 This is my first git repository
 <br>
-Author - Ram
+Author - Raj (Niat)
